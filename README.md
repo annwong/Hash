@@ -1,1 +1,1 @@
-# Hash
+# Hash MD5
